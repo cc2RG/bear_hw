@@ -19,7 +19,8 @@ river = River.new(fishes)
 mr_chcolate.roar
 
 
-bear.take_fish_from_river(river)
+yogi.take_fish_from_river(river)
+
 
 
 # take_fish_from_river( "Yogi", river)
